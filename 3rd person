@@ -43,6 +43,6 @@ SparkPatchEntry,(1,1,0,),/Game/GameData/Camera/CameraMode_ThirdPerson.CameraMode
 SparkCharacterLoadedEntry,(1,1,0,MatchAll),/Game/Common/_Design/BPCont_Player.DefaultBPCont_Player_C,UseComponent.Object..PickupInteractionDistance,0,,633
 #default - 500
 SparkCharacterLoadedEntry,(1,1,0,MatchAll),/Game/Common/_Design/BPCont_Player.DefaultBPCont_Player_C,UseComponent.Object..InteractDistance,0,,513
-#default - 331
+#default - 450
 SparkCharacterLoadedEntry,(1,1,0,MatchAll),/Game/Common/_Design/BPCont_Player.Default__BPCont_Player_C,UseComponent.Object..LeaveInteractionDistance,0,,514
 # ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
