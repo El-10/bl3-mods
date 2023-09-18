@@ -39,10 +39,10 @@ SparkPatchEntry,(1,1,0,),/Game/GameData/Camera/CameraMode_ThirdPerson.CameraMode
 # ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### dead-jacks interaction distance patch
 ### these values can be adjusted for further interaction distance
-#default - 450
+#default - 600
 SparkCharacterLoadedEntry,(1,1,0,MatchAll),/Game/Common/_Design/BPCont_Player.DefaultBPCont_Player_C,UseComponent.Object..PickupInteractionDistance,0,,633
-#default - 330
+#default - 400
 SparkCharacterLoadedEntry,(1,1,0,MatchAll),/Game/Common/_Design/BPCont_Player.DefaultBPCont_Player_C,UseComponent.Object..InteractDistance,0,,513
-#default - 331
+#default - 400
 SparkCharacterLoadedEntry,(1,1,0,MatchAll),/Game/Common/_Design/BPCont_Player.Default__BPCont_Player_C,UseComponent.Object..LeaveInteractionDistance,0,,514
 # ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
